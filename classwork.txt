@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Classwork</title>
+</head>
+<body>
+    <h1>Classwork</h1>
+    <h2>Classwork</h2>
+
+    <p style="font-style: italic;">I did the classwork so please put me a ten.</p> 
+
+    <a href="https://www.youtube.com/watch?v=rWWJMeNzt-8&list=WL&index=354">Reason to give me a ten</a>
+
+    <img src= http://www.quickmeme.com/img/82/8231b779b92e1d5303b2ba91f6f6b3c7b2fc8fcd26dfa823ef5734c2ce3ddd5f.jpg>
+</body>
+</html>
